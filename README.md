@@ -3,7 +3,7 @@
                                                                           
 ### Overview
 
-This project aims to predict house prices using the California housing dataset **(housing.csv)**. Various machine learning models have been employed, including Linear Regression, Stochastic Gradient Descent Regressor, Support Vector Regressor, Decision Tree Regressor, and Random Forest Regressor.
+This project aims to predict house prices using the California housing dataset `**(housing.csv)**`. Various machine learning models have been employed, including Linear Regression, Stochastic Gradient Descent Regressor, Support Vector Regressor, Decision Tree Regressor, and Random Forest Regressor.
 
 ### Dataset
 
@@ -11,12 +11,7 @@ The California housing dataset contains housing data for districts in California
 
 ### Models Used and It's accuracy
 
-**Linear Regression**
-
-**SGD Regressor**
-
-**Support Vector Regressor (SVR)**
-
-**Decision Tree Regressor**
-
-**Random Forest Regressor**
+|ML Models|Train Accuracy|Test Accuracy|
+|---|---|---|
+|Linear Regression|64.3|65.9|
+|SGD Regressor|64.2|65.5|
