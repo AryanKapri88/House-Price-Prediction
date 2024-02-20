@@ -20,9 +20,12 @@ The California housing dataset contains housing data for districts in California
 |RandomForestRegressor()|97.5|82.6|
 
 ### Files Included
-main.ipynb: Jupyter Notebook containing the code for data exploration, model training, and evaluation.
-housing.csv: California housing dataset.
-requirements.txt: List of required Python packages.
+
+`main.ipynb`: Jupyter Notebook containing the code for data exploration, model training, and evaluation.
+
+`housing.csv`: California housing dataset.
+
+`requirements.txt`: List of required Python packages.
 
 ### Acknowledgments
 -The California housing dataset used in this project is sourced from [housing.csv](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
