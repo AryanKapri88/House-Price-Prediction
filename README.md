@@ -27,7 +27,9 @@ The California housing dataset contains housing data for districts in California
 
 `requirements.txt`: List of required Python packages.
 
-### Acknowledgments
+### Acknowledgment
 -The California housing dataset used in this project is sourced from [housing.csv](https://www.kaggle.com/datasets/camnugent/california-housing-prices).
+
+
 
 
