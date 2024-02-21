@@ -13,11 +13,11 @@ The California housing dataset contains housing data for districts in California
 
 |ML Models|Train Accuracy|Test Accuracy|
 |---|---|---|
-|Linear Regression|64.3|65.9|
-|SGD Regressor|64.2|65.5|
-|SVR()|-4.6|-5.3|
-|DecisionTreeRegressor()| 100.0|67.6|
-|RandomForestRegressor()|97.5|82.6|
+|Linear Regression|64.3%|65.9%|
+|SGD Regressor|64.2%|65.5%|
+|SVR()|-4.6%|-5.3%|
+|DecisionTreeRegressor()| 100.0%|67.6%|
+|RandomForestRegressor()|97.5%|82.6%|
 
 ### Files Included
 
